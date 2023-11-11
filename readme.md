@@ -14,3 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+Watch Live 
+https://3-d-text-reboot.vercel.app/
